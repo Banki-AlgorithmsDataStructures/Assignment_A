@@ -37,4 +37,4 @@ Write a C# method that:
   - The smallest value,
   - The largest value,
   - The average (formatted to 2 decimal places).
- */
+ 
